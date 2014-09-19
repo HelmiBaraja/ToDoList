@@ -18,7 +18,7 @@ static NSString *todoFilename = @"todo";
 - (void)viewDidLoad
 {
     //this is comment.
-    //this is comment2.
+    //this is comment3.
     NSLog(@"MOBILE APPLICATION DEVELOPMENT WORKSHOP (19 SEPT 2014)");
     NSLog(@"HELMI BARAJA SO HANDSOME TODAY :P");
     [super viewDidLoad];
