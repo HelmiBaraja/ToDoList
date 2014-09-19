@@ -5,7 +5,6 @@
 //  Created by Helmi Hasan on 9/18/14.
 //  Copyright (c) 2014 Terato Tech. All rights reserved.
 //
-//  testing by colin
 
 #import <UIKit/UIKit.h>
 
