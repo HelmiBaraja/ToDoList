@@ -20,6 +20,7 @@ static NSString *todoFilename = @"todo";
     //this is comment.
     //this is comment2.
     NSLog(@"MOBILE APPLICATION DEVELOPMENT WORKSHOP (19 SEPT 2014)");
+    NSLog(@"HELMI BARAJA SO HANDSOME TODAY :P");
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 }
